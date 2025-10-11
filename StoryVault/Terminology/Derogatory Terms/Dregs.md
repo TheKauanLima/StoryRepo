@@ -1,0 +1,1 @@
+Derogatory term for an [[Artificial Apianids|Artificial Apianid]], referring to them as the lowest in nature and society as a whole.

@@ -1,0 +1,1 @@
+A type of attack coordinated by 2 or more Apianids. This attack involves multiple parties approaching from different angles, oft resulting in sacrifice to take down a target.
