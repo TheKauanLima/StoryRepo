@@ -1,2 +1,2 @@
-Similar to the term "Blue-blood". Used to insult [[Apianids]] of regal descent. 
+Similar to the term "Blue-blood". Used to insult [[Anthrapi (Homo-Apis)]] of regal descent. 
 #Slurs

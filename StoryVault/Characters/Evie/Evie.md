@@ -6,7 +6,7 @@ Name: Evie.
 Sex: Female.
 Identity: Female.
 Orientation: Unknown.
-Factions: [[Apianids|Apianids]], [[Artificial Apianids|Artificial Apianids]].
+Factions: [[Apideus (Apis-Artificium)|Apideus (Apis-Artificium)]].
 Stature: 5'11".
 Build: Slightly chubby.
 Background: Worker bee, Investigator.
@@ -39,7 +39,7 @@ Glaive Adept - Understands basic ways to use a glaive. Reason unknown, but likel
 Investigator - Able to find useful information with ease. Heightened persuasion and manipulation skills.
 
 **Flaws:**
-Fragmented Memory - Misremembers her past before becoming an [[Artificial Apianids|Artificial Apianid]]. Severe headaches when trying to remember her past. 
+Fragmented Memory - Misremembers her past before becoming an [[Apideus (Apis-Artificium)|Apideu]]. Severe headaches when trying to remember her past. 
 
 Obsessions of a Researcher - Obsessive. Must see tasks to completion no matter what. Can become distressed if she cannot do something, leading to depressive episodes or anxiety attacks.
 
