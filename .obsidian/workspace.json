@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StoryVault/Character Lore/Mona/Mona's Backstory.md",
+                "file": "StoryVault/Assorted Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mona's Backstory"
+              "title": "Assorted Ideas"
             }
           },
           {
@@ -185,15 +185,18 @@
   },
   "active": "744650e376aa1ee1",
   "lastOpenFiles": [
-    "StoryVault/Character Lore/Evie/Evie's Backstory.md",
+    "StoryVault/Assorted Ideas.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled.canvas",
     "StoryVault/Character Lore/Mona/Mona's Backstory.md",
+    "StoryVault/Character Lore/Evie/Evie's Backstory.md",
     "StoryVault/Characters/Evie/Evie.md",
     "StoryVault/Factions/Bees/Bees.md",
     "StoryVault/Factions/Bees/Anthrapis/Apideus/Apideus (Apis-Artificium).md",
     "StoryVault/Factions/Bees/Anthrapis/Anthrapi (Homo-Apis).md",
     "StoryVault/Factions/Bees/Anthrapis/Apideus/Artificial Evolution.md",
     "StoryVault/Terminology/Derogatory Terms/Dregs.md",
-    "Untitled 1.base",
     "2025-10-12.md",
     "Untitled 3.canvas",
     "StoryVault/Characters/Suspicious townsfolk man (tril)/Sus man.md",
@@ -212,7 +215,6 @@
     "[StoryVault/Factions/Bees/Apianids/Artificial Apianids",
     "[StoryVault/Factions/Bees/Apianids",
     "[StoryVault/Factions/Bees",
-    "[StoryVault/Factions",
     "StoryVault/Characters/Queen Vanessa/Queen Vanessa.md",
     "StoryVault/Characters/Mona/Mona.md",
     "StoryVault/Factions/Humans/Humans.md",
@@ -220,8 +222,6 @@
     "StoryVault/Terminology/Derogatory Terms/Hive-blood.md",
     "StoryVault/Terminology/Derogatory Terms/Sapper.md",
     "Untitled 1.canvas",
-    "StoryVault/Assorted Ideas.md",
-    "README.md",
-    "Untitled.canvas"
+    "README.md"
   ]
 }
