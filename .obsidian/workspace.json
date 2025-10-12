@@ -27,26 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StoryVault/Characters/Evie/Evie.md",
+                "file": "StoryVault/Character Lore/Mona/Mona's Backstory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evie"
-            }
-          },
-          {
-            "id": "e7a85142e4e0a3d0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Mona's Backstory"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#CharacterStory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,20 +157,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "StoryVault/Character Lore/Mona/Mona's Backstory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Mona's Backstory"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,28 +184,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "98207acedf0409fd",
+  "active": "2698a675d65281b8",
   "lastOpenFiles": [
-    "StoryVault/Terminology/Derogatory Terms/Hive-blood.md",
-    "StoryVault/Terminology/Derogatory Terms/Dregs.md",
-    "StoryVault/Terminology/Derogatory Terms/Sapper.md",
-    "StoryVault/Factions/Apianids/Apianids.md",
-    "StoryVault/Factions/Apianids/Artificial Apianids/Artificial Apianids.md",
-    "StoryVault/Characters/Evie/Evie.md",
-    "StoryVault/Factions/Humans",
+    "Mona's Backstory.pdf",
     "StoryVault/Character Lore/Evie/Evie's Backstory.md",
-    "StoryVault/Factions/Apianids/Evolution.md",
-    "StoryVault/Factions/Apianids/Artificial Apianids",
-    "StoryVault/Factions/Apianids/Pincer.md",
-    "StoryVault/Factions/Apianids",
-    "StoryVault/Terminology/Derogatory Terms",
-    "StoryVault/Character Lore/Queen Vanessa",
-    "StoryVault/Character Lore/Mona",
-    "StoryVault/Character Lore/Evie",
+    "Evie's Backstory.pdf",
+    "StoryVault/Character Lore/Mona/Mona's Backstory.md",
+    "StoryVault/Characters/Evie/Evie.md",
+    "StoryVault/Factions/Humans/Unnamed Kingdom/Kingdom.md",
+    "StoryVault/Factions/Humans/Unnamed Kingdom",
+    "2025-10-12.md",
+    "StoryVault/Factions/Bees/Currently Unnamed Hive/Hive.md",
+    "StoryVault/Factions/Bees/Currently Unnamed Hive/Queen Bee.md",
+    "StoryVault/Factions/Bees/Currently Unnamed Hive/Royal Guard.md",
+    "StoryVault/Factions/Bees/Currently Unnamed Hive",
+    "StoryVault/Factions/Bees/Bees.md",
+    "StoryVault/Factions/Bees/Apianids/Pincer.md",
+    "StoryVault/Factions/Bees/Apianids/Artificial Apianids/Artificial Apianids.md",
+    "[StoryVault/Factions/Bees/Apianids/Artificial Apianids/Evolution.md",
+    "StoryVault/Factions/Bees/Apianids/Artificial Apianids/Artificial Evolution.md",
+    "StoryVault/Factions/Bees/Apianids/Natural Evolution.md",
+    "StoryVault/Factions/Bees/Apianids/Apianids.md",
+    "[StoryVault/Factions/Bees/Apianids/Artificial Apianids",
+    "[StoryVault/Factions/Bees/Apianids",
+    "[StoryVault/Factions/Bees",
+    "[StoryVault/Factions",
+    "[StoryVault",
+    "StoryVault/Factions/Bees",
+    "StoryVault/Pandemics and Epidemics",
+    "StoryVault/Characters/Queen Vanessa/Queen Vanessa.md",
+    "StoryVault/Characters/Mona/Mona.md",
+    "StoryVault/Factions/Humans/Humans.md",
+    "Untitled 2.canvas",
+    "StoryVault/Terminology/Derogatory Terms/Hive-blood.md",
+    "StoryVault/Terminology/Derogatory Terms/Sapper.md",
+    "StoryVault/Terminology/Derogatory Terms/Dregs.md",
+    "Untitled 1.canvas",
     "StoryVault/Assorted Ideas.md",
-    "StoryVault/Characters/Queen Vanessa",
-    "StoryVault/Characters/Evie",
-    "StoryVault/Characters/Mona",
     "README.md",
     "Untitled.canvas"
   ]

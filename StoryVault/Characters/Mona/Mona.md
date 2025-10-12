@@ -1,0 +1,3 @@
+A [[Humans|Human]].
+
+#CharacterSheet

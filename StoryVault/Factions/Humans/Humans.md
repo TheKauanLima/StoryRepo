@@ -1,0 +1,4 @@
+---
+tags:
+  - Factions
+---
