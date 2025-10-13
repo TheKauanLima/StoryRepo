@@ -26,3 +26,14 @@ General Information:
 - The illness claims the life of many, including Queen Vanessa
 - Vanessa had no offspring, so the throne went to her lover, Mona.
 - Mona found out that the foodborne illness was the cause of her lovers death and declared war on anthrapians, thinking that it was their doing (she doesnt know about the artificial).
+
+## MORE IDEA
+- Evie is different to most Apideus. Most of them look like homunculi, due to being a product of Human cells combining with Anthrapian cells and then being left to grow. Evie, however, is a result of being taken from the hive and injected with human cells, only to fully fuse with Mona later. Evie looks more human due to a full merge occurring.
+- Apideus are a project created by humanity after the demand for honey grows too much. Humanity wanted more honey, so they started the project.
+  Many studies were done by combining human and anthrapian cells, but there was one paper that called for a merging of a human and an anthrapian. This is the only known method of creating a "true" Apideus. 
+- True Apideus were less favoured as a method, due to the need of sacrificing an anthrapian and a human life.
+- The project was funded by queen Vanessa, as she was tired of the lack of honey and having to rely on such "worthless creatures". She was never fond of her mothers choices, but she found that she may be able to exploit the peace she made with Anthrapians. She funded the project and ordered the production of honey in less than a month. After rushing the project, many Apideus came out as horribly disfigured due to the conditions they were grown in. 
+- These Apideus produced toxic honey that was first tasted by queen Vanessa, who said it was "Good enough." and ordered widespread deployment of the product.
+- This toxic manufactured honey took the lives of many, including the queen herself.
+- Mona was unaware of this project and so when she took the throne she blamed the bees for this and started a war. It is only after this that she finds out about Apideus. She never finds out Vanessas involvement (until maybe a future arc?)
+- She found the paper on true apideus and wanted to  create one to bring back her queen. She did not know how horrible of a person vanessa was.
