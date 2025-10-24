@@ -38,5 +38,27 @@
 - Some time after, Evie, finding Mona laying down was then able to absorb her soul, entirely changing her being to become something between Anthrapian and Apideus.
 - Now, it is Evie's goal to find her hive and to reform the human kingdom on behalf of Mona's soul.
 
+# Unassorted Lore
+- old hive discovered -kingdom A finds and sponsors the hive to trade knowledge for honey
+- kingdom A becomes a monopoly on honey and in secret distributes it to other kingdoms
+- more trade circulates through kingdom A, turning them into a regional center for trade
+- kingdom B sees it beneficial to take over kingdom A in its honey production
+- kingdom B sends one of their scientists, Mona, to kingdom A to conduct research on the bees
+- Mona ends up falling in love with Queen Vanessa and begins to align herself more with kingdom A
+- kingdom A prospers more due to Mona's scientific developments
+- kingdom B, angered, decides to plan a war against kingdom A
+- After the hive shuts off trade with kingdom A and the diluted honey weakens the kingdom to the death of the queen, Mona takes action against the hive
+- Mona takes the anthrapian caregivers from the destroyed hive and retreats to her distant labs to conduct experiments (Possibly to try and convince kingdom B to let her live through her knowledge of the honey)
+- Nobles from kingdom B find her and her lab and kill her anyway, at which point the bond she forms with Evie she realizes is more real than any ties to kingdom B she ever had
+- As a final act, she binds herself to Evie
+- kingdom B now serves as the dominant force in the lands and has taken over kingdom A. They now work to find the source of new honey.
+
 # Evie's goal
-To discover the truth of the hive
+To discover the truth of the hive.
+
+# Main Plot
+
+Evie must collect the honey from the old kingdoms to mend her memories and abilities.
+Evie will one day find the old hive and the members of her original species.
+Toward the end, she must confront the king responsible for the destruction of the kingdom and by extension her hive.
+After becoming queen of the kingdom, she later must confront the actual main villain of the story, who created the anthrapians long ago for their honey.
