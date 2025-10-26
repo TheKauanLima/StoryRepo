@@ -37,3 +37,18 @@ General Information:
 - This toxic manufactured honey took the lives of many, including the queen herself.
 - Mona was unaware of this project and so when she took the throne she blamed the bees for this and started a war. It is only after this that she finds out about Apideus. She never finds out Vanessas involvement (until maybe a future arc?)
 - She found the paper on true apideus and wanted to  create one to bring back her queen. She did not know how horrible of a person vanessa was.
+# Locations
+- Forests (Kingdom A, few towns)
+- Cliffs (Before Kingdom B)
+- Jungle (Racist Kingdom, Old Hive)
+- Tropics (Panhandle Kingdom, Island Fishing Kingdom)
+- Desert (City of Statues, Salt flats)
+- Storms (Stormy area, luminescent forest)
+- Grand Geode (Kingdom 6)
+- Hub Areas (between kingdoms)
+
+# Potential Spots
+- New continent (Past islands)
+- Snowy area (behind geodes)
+- Ravine area
+- Underground settlement![[Pasted image 20251025201855.png]]
